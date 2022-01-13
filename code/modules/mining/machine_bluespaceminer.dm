@@ -2,7 +2,7 @@
 	name = "bluespace mining machine"
 	desc = "A machine that constantly scans the nearby asteroid feilds for usable material, then uses the magic of Bluespace to teleport it straight to a linked Silo."
 	icon = 'icons/obj/machines/mining_machines.dmi'
-	icon_state = "stacker"
+	icon_state = "bsminer"
 	density = TRUE
 	circuit = /obj/item/circuitboard/machine/bluespace_miner
 	layer = BELOW_OBJ_LAYER
