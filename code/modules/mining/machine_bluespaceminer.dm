@@ -1,7 +1,7 @@
 /obj/machinery/mineral/bluespace_miner
 	name = "bluespace mining machine"
 	desc = "A machine that uses the magic of Bluespace to slowly generate materials and add them to a linked ore silo."
-	icon = 'modular_sand/icons/obj/machines/mining_machines.dmi'
+	icon = 'icons/obj/machines/mining_machines.dmi'
 	icon_state = "bsminer"
 	density = TRUE
 	circuit = /obj/item/circuitboard/machine/bluespace_miner
